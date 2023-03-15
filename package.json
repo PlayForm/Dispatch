@@ -1,19 +1,28 @@
 {
-  "name": "@nikolarhristov/router",
-  "version": "0.0.1",
-  "description": "",
-  "main": "./dist/index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/nikolaxhristov/router.git"
-  },
-  "scripts": {
-	"build": "lightrix build src/**/*.ts",
-	"dev": "wrangler dev"
-},
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/nikolaxhristov/router/issues"
-  },
-  "homepage": "https://github.com/nikolaxhristov/router#readme"
+	"name": "@nikolarhristov/router",
+	"version": "0.0.1",
+	"description": "",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nikolaxhristov/router.git"
+	},
+	"homepage": "https://github.com/nikolaxhristov/router#readme",
+	"bugs": {
+		"url": "https://github.com/nikolaxhristov/router/issues"
+	},
+	"license": "MIT",
+	"main": "./dist/index.js",
+	"module": "./dist/index.js",
+	"exports": {
+		".": {
+			"import": "./dist/index.js",
+			"types": "./dist/index.d.ts"
+		},
+		"./package.json": "./package.json"
+	},
+	"types": "./dist/index.d.ts",
+	"scripts": {
+		"build": "lightrix build src/**/*.ts",
+		"dev": "wrangler dev"
+	}
 }
