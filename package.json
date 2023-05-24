@@ -4,11 +4,11 @@
 	"description": "",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/nikolaxhristov/router.git"
+		"url": "https://github.com/NikolaRHristov/router.git"
 	},
-	"homepage": "https://github.com/nikolaxhristov/router#readme",
+	"homepage": "https://github.com/NikolaRHristov/router#readme",
 	"bugs": {
-		"url": "https://github.com/nikolaxhristov/router/issues"
+		"url": "https://github.com/NikolaRHristov/router/issues"
 	},
 	"license": "MIT",
 	"main": "./dist/index.js",
