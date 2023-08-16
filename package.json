@@ -15,5 +15,8 @@
 	"types": "./Target/Index.d.ts",
 	"scripts": {
 		"dev": "wrangler dev"
+	},
+	"devDependencies": {
+		"typescript-esbuild": "0.1.13"
 	}
 }
