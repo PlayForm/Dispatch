@@ -1,6 +1,7 @@
 {
 	"name": "@nikolarhristov/router",
 	"version": "0.0.1",
+	"private": "false",
 	"description": "",
 	"homepage": "https://github.com/NikolaRHristov/router#readme",
 	"bugs": {
@@ -11,6 +12,12 @@
 		"url": "git+https://github.com/NikolaRHristov/router.git"
 	},
 	"license": "MIT",
+	"author": {
+		"name": "Nikola Hristov",
+		"email": "nikola@nikolahristov.tech",
+		"url": "https://nikolahristov.tech"
+	},
+	"type": "module",
 	"main": "./Target/Index.js",
 	"types": "./Target/Index.d.ts",
 	"scripts": {
@@ -18,5 +25,8 @@
 	},
 	"devDependencies": {
 		"typescript-esbuild": "0.1.13"
+	},
+	"publishConfig": {
+		"access": "public"
 	}
 }
