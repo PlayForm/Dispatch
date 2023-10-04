@@ -24,11 +24,7 @@
 		"dev": "wrangler dev"
 	},
 	"devDependencies": {
-<<<<<<< HEAD
 		"typescript-esbuild": "0.2.14"
-=======
-		"typescript-esbuild": "0.2.13"
->>>>>>> c2010687d46841a9eb27bc5bbd62d5dc6af77900
 	},
 	"publishConfig": {
 		"access": "public"
