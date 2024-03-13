@@ -3,13 +3,13 @@
 	"version": "0.0.1",
 	"private": false,
 	"description": "",
-	"homepage": "https://github.com/NikolaRHristov/router#readme",
+	"homepage": "https://github.com/Playform/Router#readme",
 	"bugs": {
-		"url": "https://github.com/NikolaRHristov/router/issues"
+		"url": "https://github.com/Playform/Router/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/NikolaRHristov/router.git"
+		"url": "git+https://github.com/Playform/Router.git"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
