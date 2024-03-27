@@ -24,7 +24,7 @@
 		"dev": "wrangler dev"
 	},
 	"devDependencies": {
-		"typescript-esbuild": "0.4.7"
+		"typescript-esbuild": "0.4.8"
 	},
 	"publishConfig": {
 		"access": "public"
