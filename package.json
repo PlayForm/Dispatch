@@ -1,15 +1,15 @@
 {
-	"name": "@nikolarhristov/router",
+	"name": "@playform/dispatch",
 	"version": "0.0.1",
 	"private": false,
-	"description": "",
-	"homepage": "https://github.com/Playform/Router#readme",
+	"description": "✈️ Dispatch",
+	"homepage": "https://github.com/Playform/Dispatch#readme",
 	"bugs": {
-		"url": "https://github.com/Playform/Router/issues"
+		"url": "https://github.com/Playform/Dispatch/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Playform/Router.git"
+		"url": "git+https://github.com/Playform/Dispatch.git"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
