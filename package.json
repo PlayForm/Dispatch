@@ -3,6 +3,9 @@
 	"version": "0.0.1",
 	"private": false,
 	"description": "✈️ Dispatch —",
+	"keywords": [
+		"playform"
+	],
 	"homepage": "HTTPS://GitHub.Com/Playform/Dispatch#readme",
 	"bugs": {
 		"url": "HTTPS://GitHub.Com/Playform/Dispatch/issues"
@@ -13,7 +16,7 @@
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
-		"name": "Source/Open",
+		"name": "⛲ Source ⁄ 🚪 Open —",
 		"email": "Source/Open@Playform.Cloud",
 		"url": "HTTPS://Playform.Cloud"
 	},
