@@ -6,9 +6,9 @@
 	"keywords": [
 		"playform"
 	],
-	"homepage": "HTTPS://GitHub.Com/PlayForm/Dispatch#readme",
+	"homepage": "https://GitHub.Com/PlayForm/Dispatch#readme",
 	"bugs": {
-		"url": "HTTPS://GitHub.Com/PlayForm/Dispatch/issues"
+		"url": "https://GitHub.Com/PlayForm/Dispatch/issues"
 	},
 	"repository": {
 		"type": "git",
@@ -18,7 +18,7 @@
 	"author": {
 		"name": "Source ✍🏻 Open 👐🏻",
 		"email": "Source/Open@PlayForm.Cloud",
-		"url": "HTTPS://PlayForm.Cloud"
+		"url": "https://PlayForm.Cloud"
 	},
 	"type": "module",
 	"main": "./Target/Index.js",
