@@ -27,7 +27,7 @@
 		"dev": "wrangler dev"
 	},
 	"devDependencies": {
-		"@playform/build": "0.3.4"
+		"@playform/build": "0.3.5"
 	},
 	"publishConfig": {
 		"access": "public",
